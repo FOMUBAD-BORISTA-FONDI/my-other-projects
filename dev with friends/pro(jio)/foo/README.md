@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📞📧
 
-If you have any questions or inquiries regarding this project, feel free to contact me at [irhamnfrnda@gmail.com](fomubadborister@gmail.com).
+If you have any questions or inquiries regarding this project, feel free to contact me at [Borista](fomubadborister@gmail.com).
 
 ---
 
